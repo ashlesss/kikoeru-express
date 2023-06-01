@@ -116,7 +116,7 @@ package-macos
 config
 
 # Covers
-covers
+covers/
 
 # SQLite
 sqlite
@@ -133,3 +133,12 @@ Release-Template.md
 
 # Dependecy graph
 graph.svg
+
+# sqlite directory 
+sqlite/
+
+# front-end directory 
+dist/
+
+# .github workflows 
+.github/workflows/
